@@ -1,0 +1,86 @@
+
+
+body {
+    font-family: 'Architects Daughter', cursive;
+    background-image: url(matrix2.png);
+    color: white;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+    color: white;
+    padding-top: 2rem;
+    
+}
+
+.title {
+    background-color: #007efa;
+    width: 900px;
+    margin-left: 18%;
+}
+
+/* navigation **************************/
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 3rem;
+    
+  }
+  
+  li {
+    display: inline;
+    
+  }
+  
+  p {
+    padding: 0px 20px;
+    color: white;
+  }
+  
+  a {
+      color: white;
+      text-decoration: none;
+      text-transform: uppercase;
+  }
+  
+  a:hover {
+    color: black;
+    opacity: 75%;
+    text-decoration: none;
+  }
+
+/* table ****************************************/
+
+
+  td {
+    background-color: #007efa;
+  }
+
+  td, th {
+      border: white solid 2px;
+      font-size: 20px;
+      padding: 8px;
+      
+  }
+
+  th {
+    background-color: #00478d;
+    height: 50px;
+    text-align: justify;
+    color: white;
+}
+
+  table {
+    border-collapse: collapse;
+    width: 100;
+    margin-left: 50px;
+    margin-right: 50px;;
+  }
+
+
